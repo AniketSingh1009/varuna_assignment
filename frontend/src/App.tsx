@@ -55,7 +55,7 @@ function App() {
       <footer className="bg-gray-800 text-gray-300 py-4 mt-12">
         <div className="container mx-auto px-4 text-center text-sm">
           <p>FuelEU Maritime Compliance Platform | Hexagonal Architecture</p>
-          <p className="text-gray-500 mt-1">Built with React + TypeScript + TailwindCSS</p>
+          <p className="text-gray-500 mt-1">Built with React + TypeScript + TailwindCSS by Niket kumar</p>
         </div>
       </footer>
     </div>
