@@ -8,12 +8,12 @@ export function BankingPanel() {
   const [totalBanked, setTotalBanked] = useState<number | null>(null);
   const [message, setMessage] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
-
+  // handler function bug fixed
   const handleBank = async (e: React.FormEvent) => {
     e.preventDefault();
     setError(null);
     setMessage(null);
-
+      
     try {
       await api.bankSurplus({
         shipId,
