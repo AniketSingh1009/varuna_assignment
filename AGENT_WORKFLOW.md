@@ -2,9 +2,6 @@
 
 ## Agents Used
 - **Kiro AI Assistant** - Primary agent for code generation, architecture design, and implementation
-- **Session 1:** Initial backend + basic frontend implementation
-- **Session 2:** Frontend rebuild with proper hexagonal architecture following detailed specifications
-
 ## Prompts & Outputs
 
 ### Example 1: Project Structure Setup
